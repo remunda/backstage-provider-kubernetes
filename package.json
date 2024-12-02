@@ -33,7 +33,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "@backstage/backend-common": "^0.17.0",
+    "@backstage/backend-common": "^0.24.1",
     "@backstage/backend-tasks": "^0.5.0",
     "@backstage/catalog-client": "^1.2.0",
     "@backstage/catalog-model": "^1.1.4",
@@ -65,7 +65,7 @@
     "eslint": "^8.38.0",
     "eslint-plugin-typescript": "^0.14.0",
     "semantic-release": "^21.0.1",
-    "yaml": "^1.9.2"
+    "yaml": "^2.6.1"
   },
   "files": [
     "dist",
